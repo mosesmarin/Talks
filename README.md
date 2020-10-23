@@ -5,4 +5,4 @@
 
 
 # Speeches
-- [To Give Your Best Effort Do It Like It's The Last Time You're Doing It] (https://www.seattlesunrisetoastmasters.com/meeting-summary/to-give-your-best-effort-do-it-like-its-the-last-time-you-are-doing-it/)
+- [To Give Your Best Effort Do It Like It's The Last Time You're Doing It](https://www.seattlesunrisetoastmasters.com/meeting-summary/to-give-your-best-effort-do-it-like-its-the-last-time-you-are-doing-it/)
